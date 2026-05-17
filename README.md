@@ -27,14 +27,14 @@ Hi, I'm Nimra! I enjoy working across the full spectrum of software  from design
 ####  [Flight Booking Management System](https://github.com/eshwarB-2003/Flight_Booking_Management_System)
 *Distributed Systems & Microservices | University of Limerick*
 - Distributed microservices-based system enabling users to search flights, reserve seats, and manage bookings.
-- Uses an API Gateway for request routing across independent services; React + TypeScript frontend.
+- Uses an API Gateway for request routing across independent services.
 
 ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ####  [Large-Scale Traffic Volume Prediction on Irish National Roads](https://github.com/Nimrazia/Large-Scale-Traffic-Volume-Prediction-on-Irish-National-Roads)
-*Big Data Pipeline | CS6502 – University of Limerick*
+*Big Data  | CS6502 – University of Limerick*
 - Scalable pipeline on Apache Spark and Databricks to predict hourly traffic volume from 7.5M+ TII sensor records.
-- Implemented and tuned five Spark MLlib regression models; best result with Gradient Boosted Tree Regressor.
+- Implemented and tuned five Spark MLlib regression models.
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 
