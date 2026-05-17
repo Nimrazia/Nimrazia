@@ -15,20 +15,20 @@ Hi, I'm Nimra! I enjoy working across the full spectrum of software — from des
 ### 🚀 Featured Projects
 
 #### 🌿 [Mobile Greenhouse Monitoring](https://github.com/Nimrazia/mobile-greenhouse-monitoring)
-*IoT & Embedded Systems*
+*IoT*
 - Real-time greenhouse environment monitoring system using IoT sensor networks and machine learning.
 - Built to track environmental conditions and trigger intelligent responses based on sensor data.
 
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00B2A9?style=flat&logoColor=white)
 
-#### ✈️ [Flight Booking Management System](https://github.com/eshwarB-2003/Flight_Booking_Management_System)
+####  [Flight Booking Management System](https://github.com/eshwarB-2003/Flight_Booking_Management_System)
 *Distributed Systems & Microservices | University of Limerick*
 - Distributed microservices-based system enabling users to search flights, reserve seats, and manage bookings.
 - Uses an API Gateway for request routing across independent services; React + TypeScript frontend.
 
 ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 
-#### 🚗 [Large-Scale Traffic Volume Prediction on Irish National Roads](https://github.com/Nimrazia/Large-Scale-Traffic-Volume-Prediction-on-Irish-National-Roads)
+####  [Large-Scale Traffic Volume Prediction on Irish National Roads](https://github.com/Nimrazia/Large-Scale-Traffic-Volume-Prediction-on-Irish-National-Roads)
 *Big Data Pipeline | CS6502 – University of Limerick*
 - Scalable pipeline on Apache Spark and Databricks to predict hourly traffic volume from 7.5M+ TII sensor records.
 - Implemented and tuned five Spark MLlib regression models; best result with Gradient Boosted Tree Regressor.
@@ -50,11 +50,3 @@ Hi, I'm Nimra! I enjoy working across the full spectrum of software — from des
 
 ---
 
-### 📊 GitHub Stats
-
-![Nimra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimrazia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimrazia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=Nimrazia&icon=0&color=0)](https://visitcount.itsvg.in)
