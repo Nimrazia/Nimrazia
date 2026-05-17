@@ -25,7 +25,7 @@ Hi, I'm Nimra! I enjoy working across the full spectrum of software  from design
 ![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=java&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00B2A9?style=flat&logoColor=white)
 
 ####  [Flight Booking Management System](https://github.com/eshwarB-2003/Flight_Booking_Management_System)
-*Distributed Systems & Microservices | University of Limerick*
+*Advanced Software Architecture | University of Limerick*
 - Distributed microservices-based system enabling users to search flights, reserve seats, and manage bookings.
 - Uses an API Gateway for request routing across independent services.
 
