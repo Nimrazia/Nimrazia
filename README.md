@@ -1,3 +1,4 @@
+```markdown
 # Hi there, I'm Nimra Zia 
 
 ### A Software Engineering student at the University of Limerick who loves building well-designed, data-driven solutions.
@@ -14,12 +15,15 @@ Hi, I'm Nimra! I enjoy working across the full spectrum of software — from des
 
 ###  Featured Projects
 
-#### 🌿 [Mobile Greenhouse Monitoring](https://github.com/Nimrazia/mobile-greenhouse-monitoring)
-*IoT*
-- Real-time greenhouse environment monitoring system using IoT sensor networks and machine learning.
-- Built to track environmental conditions and trigger intelligent responses based on sensor data.
+####  [Mobile Greenhouse Environment Monitoring System](https://github.com/Nimrazia/mobile-greenhouse-monitoring)
+*IoT | B.Tech Final Year Project – Kakatiya Institute of Technology and Science*
+- Built a mobile-controlled robotic vehicle that autonomously navigates greenhouse environments, continuously collecting real-time temperature and humidity data using a DHT11 sensor.
+- Integrated an ESP32 camera module to capture high-resolution leaf images, which were analysed using a VGG16 deep learning model to classify plant health and detect diseases such as early blight.
+- Implemented a KNN algorithm to predict the next day's greenhouse temperature from historical sensor data, enabling proactive climate management.
+- Developed an Android mobile app (Java) to remotely control the robot's movement in 8 directions over Wi-Fi via the ESP8266 module, and a web interface to visualise live sensor data and prediction results.
+- Stored environmental data in MySQL and transmitted leaf images to Google Drive via the Google Drive API for centralised analysis.
 
-![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00B2A9?style=flat&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=java&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00B2A9?style=flat&logoColor=white)
 
 ####  [Flight Booking Management System](https://github.com/eshwarB-2003/Flight_Booking_Management_System)
 *Distributed Systems & Microservices | University of Limerick*
@@ -37,16 +41,16 @@ Hi, I'm Nimra! I enjoy working across the full spectrum of software — from des
 
 ---
 
-### 💻 Tech Stack
+###  Tools and Technologies
 
-#### 📝 Languages
+####  Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🛠️ Frameworks & Libraries
-![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+####  Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-#### 🗄️ Databases & Tools
+####  Databases & Tools
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
 
+```
