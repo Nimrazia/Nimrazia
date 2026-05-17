@@ -6,13 +6,13 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
 Hi, I'm Nimra! I enjoy working across the full spectrum of software — from designing distributed systems and applying software architecture patterns to building scalable data pipelines and analysing real-world datasets. I've worked on projects involving IoT, microservices, big data, and machine learning, and I'm always looking for opportunities to keep growing and building things that make an impact.
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### 🌿 [Mobile Greenhouse Monitoring](https://github.com/Nimrazia/mobile-greenhouse-monitoring)
 *IoT*
