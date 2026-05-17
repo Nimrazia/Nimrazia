@@ -15,7 +15,7 @@ Hi, I'm Nimra! I enjoy working across the full spectrum of software  from design
 ###  Featured Projects
 
 ####  [Mobile Greenhouse Environment Monitoring System](https://github.com/Nimrazia/mobile-greenhouse-monitoring)
-*IoT | B.Tech Final Year Project – Kakatiya Institute of Technology and Science*
+*IoT  | B.Tech Final Year Project – Kakatiya Institute of Technology and Science*
 - Built a mobile-controlled robotic vehicle that autonomously navigates greenhouse environments, continuously collecting real-time temperature and humidity data using a DHT11 sensor.
 - Integrated an ESP32 camera module to capture high-resolution leaf images, which were analysed using a VGG16 deep learning model to classify plant health and detect diseases such as early blight.
 - Implemented a KNN algorithm to predict the next day's greenhouse temperature from historical sensor data, enabling proactive climate management.
