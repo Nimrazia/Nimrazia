@@ -14,12 +14,15 @@ Hi, I'm Nimra! I enjoy working across the full spectrum of software — from des
 
 ###  Featured Projects
 
-####  [Mobile Greenhouse Monitoring](https://github.com/Nimrazia/mobile-greenhouse-monitoring)
-*IoT & Embedded Systems*
-- Real-time greenhouse environment monitoring system using IoT sensor networks and machine learning.
-- Built to track environmental conditions and trigger intelligent responses based on sensor data.
+#### 🌿 [Mobile Greenhouse Environment Monitoring System](https://github.com/Nimrazia/mobile-greenhouse-monitoring)
+*IoT | B.Tech Final Year Project – Kakatiya Institute of Technology and Science*
+- Built a mobile-controlled robotic vehicle that autonomously navigates greenhouse environments, continuously collecting real-time temperature and humidity data using a DHT11 sensor.
+- Integrated an ESP32 camera module to capture high-resolution leaf images, which were analysed using a VGG16 deep learning model to classify plant health and detect diseases such as early blight.
+- Implemented a KNN algorithm to predict the next day's greenhouse temperature from historical sensor data, enabling proactive climate management.
+- Developed an Android mobile app (Java) to remotely control the robot's movement in 8 directions over Wi-Fi via the ESP8266 module, and a web interface to visualise live sensor data and prediction results.
+- Stored environmental data in MySQL and transmitted leaf images to Google Drive via the Google Drive API for centralised analysis.
 
-![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00B2A9?style=flat&logoColor=white)
+![C++](https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=java&logoColor=white) ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white) ![IoT](https://img.shields.io/badge/IoT-00B2A9?style=flat&logoColor=white)
 
 ####  [Flight Booking Management System](https://github.com/eshwarB-2003/Flight_Booking_Management_System)
 *Distributed Systems & Microservices | University of Limerick*
