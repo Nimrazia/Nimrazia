@@ -32,7 +32,7 @@ Hi, I'm Nimra! I enjoy working across the full spectrum of software  from design
 ![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ####  [Large-Scale Traffic Volume Prediction on Irish National Roads](https://github.com/Nimrazia/Large-Scale-Traffic-Volume-Prediction-on-Irish-National-Roads)
-*Big Data  | CS6502 – University of Limerick*
+*Big Data  |  University of Limerick*
 - Scalable pipeline on Apache Spark and Databricks to predict hourly traffic volume from 7.5M+ TII sensor records.
 - Implemented and tuned five Spark MLlib regression models.
 
