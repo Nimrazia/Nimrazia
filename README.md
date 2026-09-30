@@ -15,7 +15,7 @@ Hi, I'm Nimra! I enjoy working across the full spectrum of software — from des
 ### Featured Projects
 
 #### [Repository-Aware Context Reconstruction Using Large Language Models](https://github.com/Nimrazia/repository-aware-context-reconstruction)
-*MSc Software Engineering | University of Limerick*
+*MSc Thesis | University of Limerick*
 
 - Designed and implemented a **repository-aware software analysis and evaluation pipeline** to investigate how Large Language Models reconstruct the missing context required for isolated Java methods.
 - Evaluated diffrent LLMs across **Java methods from different CodeSearchNet repositories**, using repository-derived ground truth and recursive dependency analysis to recover methods, constructors, fields, types, interfaces, annotations, and inheritance relationships.
